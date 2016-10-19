@@ -1,1 +1,2 @@
 sample  sample
+workspace	作業フォルダ
