@@ -1,0 +1,33 @@
+// OmegaT plugin
+buildscript {
+    repositories {
+        maven {
+            url "https://dl.bintray.com/miurahr/maven/"
+        }
+        maven {
+            url "https://dl.bintray.com/omegat-org/maven/"
+        }
+        mavenLocal()
+        jcenter()
+    }
+    dependencies {
+        classpath group: 'org.omegat.gradle', name: 'gradle-omegat-plugin', version: '0.9.3'
+    }
+}
+apply plugin: "org.omegat.gradle"
+
+repositories {
+     maven {
+        url "https://dl.bintray.com/miurahr/maven/"
+    }
+    maven {
+        url "https://dl.bintray.com/omegat-org/maven/"
+    }
+    mavenLocal()
+    jcenter()
+}
+import org.omegat.gradle.OmegatTask
+
+task run(type: OmegatTask) {
+    options = [projectDir]
+}
