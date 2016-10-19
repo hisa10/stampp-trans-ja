@@ -4,6 +4,22 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_841c786" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error creating directories, please check folder permissions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161019T201540Z" creationid="miurahr" creationdate="20161019T201540Z">
+        <seg>ディレクトリの作成中にエラーが発生しましたので、フォルダのアクセス権を確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not able to overwrite the file</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161019T201554Z" creationid="miurahr" creationdate="20161019T201554Z">
+        <seg>ファイルを上書きできません</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
