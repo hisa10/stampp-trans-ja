@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Context Table View</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T015806Z" creationid="miurahr" creationdate="20161020T015806Z">
+        <seg>コンテキストテーブルビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Control Action Not Provided</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015349Z" creationid="miurahr" creationdate="20161020T015250Z">
@@ -66,6 +74,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015510Z" creationid="miurahr" creationdate="20161020T015510Z">
         <seg>既定の設定でテーブルを生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Context Table view you can generate a new Context Table, based on the currently selected control action and their linked variables.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T015950Z" creationid="miurahr" creationdate="20161020T015950Z">
+        <seg>コンテキストテーブルビューでは、現在選択されている制御アクションとリンクされた変数を元に、新規コンテキストテーブルを生成できます。</seg>
       </tuv>
     </tu>
     <tu>
