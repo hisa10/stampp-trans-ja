@@ -6,6 +6,46 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Adds a new Entry</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T014628Z" creationid="miurahr" creationdate="20161020T014628Z">
+        <seg>新しいエントリの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks the Table for any (logical) Conflicts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T015424Z" creationid="miurahr" creationdate="20161020T015424Z">
+        <seg>（論理的）衝突についてテーブルをチェックする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control Action Not Provided</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T015349Z" creationid="miurahr" creationdate="20161020T015250Z">
+        <seg>制御アクションが未付与</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control Action Provided</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T015354Z" creationid="miurahr" creationdate="20161020T015313Z">
+        <seg>制御アクション付与済</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deletes the selected Row</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T015457Z" creationid="miurahr" creationdate="20161020T015457Z">
+        <seg>選択した行を削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error creating directories, please check folder permissions</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161019T201540Z" creationid="miurahr" creationdate="20161019T201540Z">
@@ -14,10 +54,98 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exports all Tables</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T015124Z" creationid="miurahr" creationdate="20161020T015124Z">
+        <seg>全てのテーブルをエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generates a new Table with default Settings</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T015510Z" creationid="miurahr" creationdate="20161020T015510Z">
+        <seg>既定の設定でテーブルを生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep Rules?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T015516Z" creationid="miurahr" creationdate="20161020T015516Z">
+        <seg>ルールを保持しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Link some Variables</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T015550Z" creationid="miurahr" creationdate="20161020T015550Z">
+        <seg>変数をリンクさせる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No linked Variables</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T015711Z" creationid="miurahr" creationdate="20161020T015711Z">
+        <seg>リンクされた変数がない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not able to overwrite the file</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161019T201554Z" creationid="miurahr" creationdate="20161019T201554Z">
         <seg>ファイルを上書きできません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please Select a Control Action to generate the Table!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T015036Z" creationid="miurahr" creationdate="20161020T015036Z">
+        <seg>テーブルを生成する制御アクションを選択してください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please link some Variables to the selected Control Action to succesfully generate a new Testset</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T015706Z" creationid="miurahr" creationdate="20161020T015706Z">
+        <seg>変数を選択して、制御アクションにリンクして、正常に新しいテストセットを生成するようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T015320Z" creationid="miurahr" creationdate="20161020T015320Z">
+        <seg>全てを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Hazardous</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T015437Z" creationid="miurahr" creationdate="20161020T015437Z">
+        <seg>有害を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Not Hazardous</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T015449Z" creationid="miurahr" creationdate="20161020T015449Z">
+        <seg>無害を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>removes all entries from the rules table</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161020T014918Z" creationid="miurahr" creationdate="20161020T014918Z">
+        <seg>ルール・テーブルからすべてのエントリを削除します。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
