@@ -2,3 +2,4 @@ workspace	作業フォルダ
 entry	エントリ
 Export	エクスポート
 Control Action	制御アクション	（暫定訳）
+Context Table view	コンテキストテーブルビュー
