@@ -6,6 +6,38 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i0&gt; For example you can change the font or make the text bold and more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161021T235250Z" creationid="miurahr" creationdate="20161021T235250Z">
+        <seg>&lt;i0&gt;たとえば、フォントを変更したり、太字などを作ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accident Date and Time</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161021T235201Z" creationid="miurahr" creationdate="20161021T235201Z">
+        <seg>事故の日付と時刻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accident Description</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161021T235206Z" creationid="miurahr" creationdate="20161021T235206Z">
+        <seg>事故の説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accident Location</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161021T235158Z" creationid="miurahr" creationdate="20161021T235158Z">
+        <seg>事故の場所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adds a new Entry</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T014628Z" creationid="miurahr" creationdate="20161020T014628Z">
@@ -18,6 +50,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015424Z" creationid="miurahr" creationdate="20161020T015424Z">
         <seg>（論理的）衝突についてテーブルをチェックする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Company Information</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161021T235348Z" creationid="miurahr" creationdate="20161021T235348Z">
+        <seg>会社情報</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Editing the Accident Description</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161021T235221Z" creationid="miurahr" creationdate="20161021T235221Z">
+        <seg>事故の説明を編集する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error creating directories, please check folder permissions</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161019T201540Z" creationid="miurahr" creationdate="20161019T201540Z">
@@ -78,10 +126,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here you can add pictures of the accident by clicking the add button.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161021T235329Z" creationid="miurahr" creationdate="20161021T235329Z">
+        <seg>ここでは、追加ボタンをクリックすることで、事故の写真を追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you can set the time and date for the accident.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161021T235254Z" creationid="miurahr" creationdate="20161021T235254Z">
+        <seg>ここでは、事故の日付と時刻を設定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to see the picture in a big view you have to click the &lt;i0&gt; button</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161021T235344Z" creationid="miurahr" creationdate="20161021T235344Z">
+        <seg>大きなビューで画像を表示する場合は、&lt;i0&gt;ボタンをクリックする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Context Table view you can generate a new Context Table, based on the currently selected control action and their linked variables.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015950Z" creationid="miurahr" creationdate="20161020T015950Z">
         <seg>コンテキストテーブルビューでは、現在選択されている制御アクションとリンクされた変数を元に、新規コンテキストテーブルを生成できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is possible to give addition information about the company which was responsible for the accident.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161021T235404Z" creationid="miurahr" creationdate="20161021T235404Z">
+        <seg>それは事故を担当する会社についての追加情報を与えることができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +194,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161019T201554Z" creationid="miurahr" creationdate="20161019T201554Z">
         <seg>ファイルを上書きできません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Picture List</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161021T235322Z" creationid="miurahr" creationdate="20161021T235322Z">
+        <seg>画像のリスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +242,30 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015449Z" creationid="miurahr" creationdate="20161020T015449Z">
         <seg>無害を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also delete pictures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161021T235334Z" creationid="miurahr" creationdate="20161021T235334Z">
+        <seg>画像を削除することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also edit the text via the Toolbox and change the layout of the text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161021T235238Z" creationid="miurahr" creationdate="20161021T235238Z">
+        <seg>ツールボックスからテキストを編集し、テキストのレイアウトを変更することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can give here additional and extended information about the accident location.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161021T235314Z" creationid="miurahr" creationdate="20161021T235314Z">
+        <seg>事故発生場所についての追加詳細情報を与えることができます。</seg>
       </tuv>
     </tu>
     <tu>
