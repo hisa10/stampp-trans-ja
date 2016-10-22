@@ -38,10 +38,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001410Z" creationid="miurahr" creationdate="20161022T001410Z">
+        <seg>追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adds a new Entry</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T014628Z" creationid="miurahr" creationdate="20161020T014628Z">
         <seg>新しいエントリの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background Color:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001659Z" creationid="miurahr" creationdate="20161022T001659Z">
+        <seg>背景色:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001610Z" creationid="miurahr" creationdate="20161022T001610Z">
+        <seg>太字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bullet List</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001652Z" creationid="miurahr" creationdate="20161022T001652Z">
+        <seg>箇条書きリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot load File:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001713Z" creationid="miurahr" creationdate="20161022T001713Z">
+        <seg>ファイルをロードできません:</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +98,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161021T235348Z" creationid="miurahr" creationdate="20161021T235348Z">
         <seg>会社情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Save As</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T002240Z" creationid="miurahr" creationdate="20161022T002240Z">
+        <seg>保存先の確認</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,10 +134,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete Hazards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001518Z" creationid="miurahr" creationdate="20161022T001518Z">
+        <seg>危険を削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001512Z" creationid="miurahr" creationdate="20161022T001512Z">
+        <seg>プロジェクトの削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete System Goals</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T002036Z" creationid="miurahr" creationdate="20161022T002036Z">
+        <seg>システムの目標を削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Unsafe Control Action</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T002030Z" creationid="miurahr" creationdate="20161022T002030Z">
+        <seg>安全でない制御アクションを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Unsafe Control Actions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T002021Z" creationid="miurahr" creationdate="20161022T002021Z">
+        <seg>安全でない制御アクションを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deletes the selected Row</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015457Z" creationid="miurahr" creationdate="20161020T015457Z">
         <seg>選択した行を削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001951Z" creationid="miurahr" creationdate="20161022T001951Z">
+        <seg>廃棄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to store them?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T002210Z" creationid="miurahr" creationdate="20161022T002153Z">
+        <seg>これらを保存しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you wish to delete the System Goal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T002059Z" creationid="miurahr" creationdate="20161022T002059Z">
+        <seg>システムの目標を削除しますか</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,10 +270,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Information</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001608Z" creationid="miurahr" creationdate="20161022T001608Z">
+        <seg>情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is possible to give addition information about the company which was responsible for the accident.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161021T235404Z" creationid="miurahr" creationdate="20161021T235404Z">
         <seg>それは事故を担当する会社についての追加情報を与えることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Italic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001613Z" creationid="miurahr" creationdate="20161022T001613Z">
+        <seg>イタリック体</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,10 +302,82 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Line:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001706Z" creationid="miurahr" creationdate="20161022T001706Z">
+        <seg>行:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Link some Variables</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015550Z" creationid="miurahr" creationdate="20161020T015550Z">
         <seg>変数をリンクさせる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Links</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001421Z" creationid="miurahr" creationdate="20161022T001421Z">
+        <seg>リンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load Project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001709Z" creationid="miurahr" creationdate="20161022T001709Z">
+        <seg>プロジェクトをロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Logo:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001716Z" creationid="miurahr" creationdate="20161022T001716Z">
+        <seg>ロゴ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Directory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001733Z" creationid="miurahr" creationdate="20161022T001725Z">
+        <seg>新規ディレクトリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001728Z" creationid="miurahr" creationdate="20161022T001728Z">
+        <seg>新規プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Workspace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001947Z" creationid="miurahr" creationdate="20161022T001843Z">
+        <seg>新しい作業フォルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Hazard selected!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001459Z" creationid="miurahr" creationdate="20161022T001459Z">
+        <seg>危険が選択されていません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Project Selected</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001509Z" creationid="miurahr" creationdate="20161022T001509Z">
+        <seg>プロジェクトが選択されていません</seg>
       </tuv>
     </tu>
     <tu>
@@ -194,6 +394,54 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161019T201554Z" creationid="miurahr" creationdate="20161019T201554Z">
         <seg>ファイルを上書きできません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001743Z" creationid="miurahr" creationdate="20161022T001743Z">
+        <seg>備考</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notes / Rationale</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001755Z" creationid="miurahr" creationdate="20161022T001755Z">
+        <seg>備考／考えかた</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Offset</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001527Z" creationid="miurahr" creationdate="20161022T001527Z">
+        <seg>オフセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Offset:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001702Z" creationid="miurahr" creationdate="20161022T001702Z">
+        <seg>オフセット:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001406Z" creationid="miurahr" creationdate="20161022T001406Z">
+        <seg>開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Others</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001523Z" creationid="miurahr" creationdate="20161022T001523Z">
+        <seg>その他</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,6 +470,62 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Possible loss of Data</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001722Z" creationid="miurahr" creationdate="20161022T001722Z">
+        <seg>データ損失の可能性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001543Z" creationid="miurahr" creationdate="20161022T001543Z">
+        <seg>プレビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001400Z" creationid="miurahr" creationdate="20161022T001400Z">
+        <seg>プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Path</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001736Z" creationid="miurahr" creationdate="20161022T001736Z">
+        <seg>プロジェクトのパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember workspace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001446Z" creationid="miurahr" creationdate="20161022T001446Z">
+        <seg>ワークスペースを保存する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001438Z" creationid="miurahr" creationdate="20161022T001438Z">
+        <seg>すべて削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the Workspace Location</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001858Z" creationid="miurahr" creationdate="20161022T001858Z">
+        <seg>作業フォルダの場所を設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show All</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015320Z" creationid="miurahr" creationdate="20161020T015320Z">
@@ -242,6 +546,142 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015449Z" creationid="miurahr" creationdate="20161020T015449Z">
         <seg>無害を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Store</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001956Z" creationid="miurahr" creationdate="20161022T001956Z">
+        <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strikeout</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001622Z" creationid="miurahr" creationdate="20161022T001622Z">
+        <seg>取り消し線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch to Accidents</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001429Z" creationid="miurahr" creationdate="20161022T001429Z">
+        <seg>事故へ切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch to Hazards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001433Z" creationid="miurahr" creationdate="20161022T001425Z">
+        <seg>危険へ切り替え</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Goals</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001803Z" creationid="miurahr" creationdate="20161022T001803Z">
+        <seg>システムの目標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Background</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001650Z" creationid="miurahr" creationdate="20161022T001650Z">
+        <seg>背景色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Box</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T002101Z" creationid="miurahr" creationdate="20161022T002101Z">
+        <seg>テキストボックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Foreground</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001635Z" creationid="miurahr" creationdate="20161022T001635Z">
+        <seg>文字色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The long description of this System Goal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T002043Z" creationid="miurahr" creationdate="20161022T002043Z">
+        <seg>このシステムの目標の長い説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected directory does not exist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001959Z" creationid="miurahr" creationdate="20161022T001959Z">
+        <seg>選択されたディレクトリは存在しません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected directory is not readable</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T002006Z" creationid="miurahr" creationdate="20161022T002006Z">
+        <seg>選択されたディレクトリは読み取り不能です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are unsaved changes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T002139Z" creationid="miurahr" creationdate="20161022T002139Z">
+        <seg>未保存の変更があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Title</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001413Z" creationid="miurahr" creationdate="20161022T001413Z">
+        <seg>タイトル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Underline</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001615Z" creationid="miurahr" creationdate="20161022T001615Z">
+        <seg>下線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsafe Control Actions Table</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T002134Z" creationid="miurahr" creationdate="20161022T002134Z">
+        <seg>安全でない制御アクションテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001326Z" creationid="miurahr" creationdate="20161022T001326Z">
+        <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workspace Root Path</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001904Z" creationid="miurahr" creationdate="20161022T001846Z">
+        <seg>作業フォルダのルートパス</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,10 +710,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>file</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001322Z" creationid="miurahr" creationdate="20161022T001322Z">
+        <seg>ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>removes all entries from the rules table</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T014918Z" creationid="miurahr" creationdate="20161020T014918Z">
         <seg>ルール・テーブルからすべてのエントリを削除します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>zoom Level</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20161022T001839Z" creationid="miurahr" creationdate="20161022T001839Z">
+        <seg>ズームレベル</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
