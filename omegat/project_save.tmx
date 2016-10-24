@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JavaScript is disabled on your browser.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T143329Z" creationid="hisa_x" creationdate="20161024T143329Z">
+        <seg>ブラウザで JavaScript が無効にされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep Rules?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015516Z" creationid="miurahr" creationdate="20161020T015516Z">
