@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142259Z" creationid="hisa_x" creationdate="20161024T142259Z">
+        <seg>確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirm Save As</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T002240Z" creationid="miurahr" creationdate="20161022T002240Z">
@@ -182,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description/Notes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142253Z" creationid="hisa_x" creationdate="20161024T142253Z">
+        <seg>詳細／メモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T001951Z" creationid="miurahr" creationdate="20161022T001951Z">
@@ -250,6 +266,30 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015124Z" creationid="miurahr" creationdate="20161020T015124Z">
         <seg>全てのテーブルをエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File format not supported</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142230Z" creationid="hisa_x" creationdate="20161024T142230Z">
+        <seg>サポートされていないファイル形式です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142235Z" creationid="hisa_x" creationdate="20161024T142235Z">
+        <seg>フィルタ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Color:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142240Z" creationid="hisa_x" creationdate="20161024T142240Z">
+        <seg>フォントの色：</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No Control Action selected!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142351Z" creationid="hisa_x" creationdate="20161024T142351Z">
+        <seg>コントロールアクションが選択されていません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Hazard selected!</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T001459Z" creationid="miurahr" creationdate="20161022T001459Z">
@@ -502,10 +550,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please confirm the deletion of all selected Control Actions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142431Z" creationid="hisa_x" creationdate="20161024T142431Z">
+        <seg>選択された全てのコントロールアクションを削除しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please confirm the deletion of the following Accidents:</seg>
       </tuv>
       <tuv lang="JA" changeid="hisa_x" changedate="20161024T142018Z" creationid="hisa_x" creationdate="20161024T142018Z">
         <seg>この事故を削除してよろしいですか：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please confirm the deletion of the following Control Actions:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142414Z" creationid="hisa_x" creationdate="20161024T142414Z">
+        <seg>このコントロールアクションを削除しますか？：</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,10 +726,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The long description of this Accident</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142135Z" creationid="hisa_x" creationdate="20161024T142135Z">
+        <seg>この事故の詳細説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The long description of this System Goal</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T002043Z" creationid="miurahr" creationdate="20161022T002043Z">
         <seg>このシステムの目標の長い説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The schema File %s is invalid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142343Z" creationid="hisa_x" creationdate="20161024T142337Z">
+        <seg>スキーマファイル %s は不正です</seg>
       </tuv>
     </tu>
     <tu>
@@ -770,6 +850,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161021T235314Z" creationid="miurahr" creationdate="20161021T235314Z">
         <seg>事故発生場所についての追加詳細情報を与えることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>comma</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142255Z" creationid="hisa_x" creationdate="20161024T142255Z">
+        <seg>カンマ</seg>
       </tuv>
     </tu>
     <tu>
