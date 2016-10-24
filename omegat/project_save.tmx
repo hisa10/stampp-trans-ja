@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click to edit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144714Z" creationid="hisa_x" creationdate="20161024T144714Z">
+        <seg>クリックして編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Company Information</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161021T235348Z" creationid="miurahr" creationdate="20161021T235348Z">
@@ -298,6 +306,22 @@
       </tuv>
       <tuv lang="JA" changeid="hisa_x" changedate="20161024T144325Z" creationid="hisa_x" creationdate="20161024T144325Z">
         <seg>新規作成...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Currently linked Accidents</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144811Z" creationid="hisa_x" creationdate="20161024T144811Z">
+        <seg>リンクされている事故</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Currently linked Hazards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144818Z" creationid="hisa_x" creationdate="20161024T144818Z">
+        <seg>リンクされている危険</seg>
       </tuv>
     </tu>
     <tu>
@@ -722,6 +746,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015711Z" creationid="miurahr" creationdate="20161020T015711Z">
         <seg>リンクされた変数がない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not Hazardous</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144746Z" creationid="hisa_x" creationdate="20161024T144746Z">
+        <seg>危険ではない</seg>
       </tuv>
     </tu>
     <tu>
