@@ -318,6 +318,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142809Z" creationid="hisa_x" creationdate="20161024T142809Z">
+        <seg>書き出し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export CSV</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142818Z" creationid="hisa_x" creationdate="20161024T142818Z">
+        <seg>CSVに書き出し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export Preferences</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142827Z" creationid="hisa_x" creationdate="20161024T142827Z">
+        <seg>初期設定を書き出し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export pdf</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142803Z" creationid="hisa_x" creationdate="20161024T142803Z">
+        <seg>PDFに書き出し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exports all Tables</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015124Z" creationid="miurahr" creationdate="20161020T015124Z">
