@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AddAll</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T143442Z" creationid="hisa_x" creationdate="20161024T143442Z">
+        <seg>全て追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adds a new Entry</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T014628Z" creationid="miurahr" creationdate="20161020T014628Z">
