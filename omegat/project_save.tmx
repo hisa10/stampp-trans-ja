@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_841c786" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_Unversioned directory" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -198,10 +198,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you wish to delete the Accident</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T141938Z" creationid="hisa_x" creationdate="20161024T141938Z">
+        <seg>事故を削除しますか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you wish to delete the System Goal</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T002059Z" creationid="miurahr" creationdate="20161022T002059Z">
         <seg>システムの目標を削除しますか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't show this message again</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T141855Z" creationid="hisa_x" creationdate="20161024T141855Z">
+        <seg>このメッセージを再び表示しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double click or select and press enter to edit the title</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T141921Z" creationid="hisa_x" creationdate="20161024T141921Z">
+        <seg>タイトルを編集するにはダブルクリックするか、選択してEnterを押してください</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No Accident selected!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142106Z" creationid="hisa_x" creationdate="20161024T142106Z">
+        <seg>事故が選択されていません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Hazard selected!</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T001459Z" creationid="miurahr" creationdate="20161022T001459Z">
@@ -458,6 +490,22 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015036Z" creationid="miurahr" creationdate="20161020T015036Z">
         <seg>テーブルを生成する制御アクションを選択してください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please confirm the deletion of all selected Accidents.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142057Z" creationid="hisa_x" creationdate="20161024T142057Z">
+        <seg>選択中の全ての事故を削除してよろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please confirm the deletion of the following Accidents:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T142018Z" creationid="hisa_x" creationdate="20161024T142018Z">
+        <seg>この事故を削除してよろしいですか：</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The selected path is not a directory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T141949Z" creationid="hisa_x" creationdate="20161024T141949Z">
+        <seg>選択されたパスはディレクトリではありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are unsaved changes.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T002139Z" creationid="miurahr" creationdate="20161022T002139Z">
@@ -682,6 +738,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T001904Z" creationid="miurahr" creationdate="20161022T001846Z">
         <seg>作業フォルダのルートパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would you like to create it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T141926Z" creationid="hisa_x" creationdate="20161024T141926Z">
+        <seg>作成しますか？</seg>
       </tuv>
     </tu>
     <tu>
