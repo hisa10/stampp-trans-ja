@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Company:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144313Z" creationid="hisa_x" creationdate="20161024T144313Z">
+        <seg>会社名：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="JA" changeid="hisa_x" changedate="20161024T142259Z" creationid="hisa_x" creationdate="20161024T142259Z">
@@ -190,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Controlled Process</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144229Z" creationid="hisa_x" creationdate="20161024T144229Z">
+        <seg>コントロールプロセスの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Controller</seg>
       </tuv>
       <tuv lang="JA" changeid="hisa_x" changedate="20161024T142550Z" creationid="hisa_x" creationdate="20161024T142550Z">
@@ -198,10 +214,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create New Project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144333Z" creationid="hisa_x" creationdate="20161024T144333Z">
+        <seg>新規プロジェクト作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Process Model</seg>
       </tuv>
       <tuv lang="JA" changeid="hisa_x" changedate="20161024T142613Z" creationid="hisa_x" creationdate="20161024T142613Z">
         <seg>プロセスモデルの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Process Value</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144247Z" creationid="hisa_x" creationdate="20161024T144247Z">
+        <seg>プロセス値の作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Process Variable</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144235Z" creationid="hisa_x" creationdate="20161024T144235Z">
+        <seg>プロセス変数の作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Sensor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144337Z" creationid="hisa_x" creationdate="20161024T144337Z">
+        <seg>センサー作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create TextBox</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144307Z" creationid="hisa_x" creationdate="20161024T144307Z">
+        <seg>テキストボックスの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create new...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144325Z" creationid="hisa_x" creationdate="20161024T144325Z">
+        <seg>新規作成...</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +450,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015124Z" creationid="miurahr" creationdate="20161020T015124Z">
         <seg>全てのテーブルをエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Already exists in Workspace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144145Z" creationid="hisa_x" creationdate="20161024T144145Z">
+        <seg>ワークスペースに既にファイルが存在します</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,6 +818,22 @@
       </tuv>
       <tuv lang="JA" changeid="hisa_x" changedate="20161024T142604Z" creationid="hisa_x" creationdate="20161024T142604Z">
         <seg>プロセスモデル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Process Value</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144250Z" creationid="hisa_x" creationdate="20161024T144211Z">
+        <seg>プロセス値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Process Variable</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144239Z" creationid="hisa_x" creationdate="20161024T144200Z">
+        <seg>プロセス変数</seg>
       </tuv>
     </tu>
     <tu>
