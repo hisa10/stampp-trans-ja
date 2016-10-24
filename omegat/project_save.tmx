@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Algorithm:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144027Z" creationid="hisa_x" creationdate="20161024T144027Z">
+        <seg>アルゴリズム：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All</seg>
       </tuv>
       <tuv lang="JA" changeid="hisa_x" changedate="20161024T142741Z" creationid="hisa_x" creationdate="20161024T142741Z">
@@ -94,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144019Z" creationid="hisa_x" creationdate="20161024T144019Z">
+        <seg>キャンセル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot load File:</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T001713Z" creationid="miurahr" creationdate="20161022T001713Z">
@@ -122,6 +138,14 @@
       </tuv>
       <tuv lang="JA" changeid="hisa_x" changedate="20161024T142259Z" creationid="hisa_x" creationdate="20161024T142259Z">
         <seg>確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Delete</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T143836Z" creationid="hisa_x" creationdate="20161024T143836Z">
+        <seg>削除しますか</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please Generate a new Testset for this Control Action</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T143814Z" creationid="hisa_x" creationdate="20161024T143814Z">
+        <seg>このコントロールアクションのテストセットを作成してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please Select a Control Action to generate the Table!</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015036Z" creationid="miurahr" creationdate="20161020T015036Z">
@@ -790,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strength:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144032Z" creationid="hisa_x" creationdate="20161024T144032Z">
+        <seg>強さ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Strikeout</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T001622Z" creationid="miurahr" creationdate="20161022T001622Z">
@@ -910,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There was no Stored Testset.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T143753Z" creationid="hisa_x" creationdate="20161024T143753Z">
+        <seg>保存されたテストセットがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Title</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T001413Z" creationid="miurahr" creationdate="20161022T001413Z">
@@ -930,6 +978,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T002134Z" creationid="miurahr" creationdate="20161022T002134Z">
         <seg>安全でない制御アクションテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Values</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T143958Z" creationid="hisa_x" creationdate="20161024T143958Z">
+        <seg>値</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,6 +1050,14 @@
       </tuv>
       <tuv lang="JA" changeid="hisa_x" changedate="20161024T142255Z" creationid="hisa_x" creationdate="20161024T142255Z">
         <seg>カンマ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>do you want to keep the Rules which are defined for this Control Action?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T143901Z" creationid="hisa_x" creationdate="20161024T143901Z">
+        <seg>このコントロールアクションに定義されたルールを保持しますか？</seg>
       </tuv>
     </tu>
     <tu>
