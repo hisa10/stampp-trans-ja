@@ -38,10 +38,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accidents</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144545Z" creationid="hisa_x" creationdate="20161024T144545Z">
+        <seg>事故</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T001410Z" creationid="miurahr" creationdate="20161022T001410Z">
         <seg>追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144500Z" creationid="hisa_x" creationdate="20161024T144500Z">
+        <seg>全て追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Control Action</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144514Z" creationid="hisa_x" creationdate="20161024T144514Z">
+        <seg>コントロールアクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Control Action Not Provided</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015349Z" creationid="miurahr" creationdate="20161020T015250Z">
@@ -186,6 +210,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015354Z" creationid="miurahr" creationdate="20161020T015313Z">
         <seg>制御アクション付与済</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control Actions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144518Z" creationid="hisa_x" creationdate="20161024T144518Z">
+        <seg>コントロールアクション</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you really want to delete the Project: %s ?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144433Z" creationid="hisa_x" creationdate="20161024T144433Z">
+        <seg>プロジェクト %s を削除してよろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to store them?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T002210Z" creationid="miurahr" creationdate="20161022T002153Z">
@@ -362,6 +402,14 @@
       </tuv>
       <tuv lang="JA" changeid="hisa_x" changedate="20161024T142528Z" creationid="hisa_x" creationdate="20161024T142528Z">
         <seg>このコントロールアクションを削除しますか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you wish to delete the Hazard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144410Z" creationid="hisa_x" creationdate="20161024T144410Z">
+        <seg>危険を削除してよろしいですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,6 +538,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015510Z" creationid="miurahr" creationdate="20161020T015510Z">
         <seg>既定の設定でテーブルを生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hazards</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144553Z" creationid="hisa_x" creationdate="20161024T144553Z">
+        <seg>危険</seg>
       </tuv>
     </tu>
     <tu>
@@ -854,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Project name:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144701Z" creationid="hisa_x" creationdate="20161024T144701Z">
+        <seg>プロジェクト名：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember workspace</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T001446Z" creationid="miurahr" creationdate="20161022T001446Z">
@@ -866,6 +930,30 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T001438Z" creationid="miurahr" creationdate="20161022T001438Z">
         <seg>すべて削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select color</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144609Z" creationid="hisa_x" creationdate="20161024T144609Z">
+        <seg>色の選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Semicolon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144617Z" creationid="hisa_x" creationdate="20161024T144617Z">
+        <seg>セミコロン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144620Z" creationid="hisa_x" creationdate="20161024T144620Z">
+        <seg>センサー</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,6 +986,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161020T015449Z" creationid="miurahr" creationdate="20161020T015449Z">
         <seg>無害を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show page on startup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144644Z" creationid="hisa_x" creationdate="20161024T144644Z">
+        <seg>起動時にページを表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -990,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The long description of this Hazard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144445Z" creationid="hisa_x" creationdate="20161024T144445Z">
+        <seg>危険の詳細説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The long description of this System Goal</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T002043Z" creationid="miurahr" creationdate="20161022T002043Z">
@@ -1058,6 +1162,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20161022T001615Z" creationid="miurahr" creationdate="20161022T001615Z">
         <seg>下線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsafe Control Actions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hisa_x" changedate="20161024T144528Z" creationid="hisa_x" creationdate="20161024T144528Z">
+        <seg>安全でないコントロールアクション</seg>
       </tuv>
     </tu>
     <tu>
